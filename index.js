@@ -29,4 +29,4 @@ class DataDogLogProvider extends fm.liveswitch.LogProvider {
     }
 }
   
-exports.DataDogLogProvider = DataDogLogProvider;
+export { DataDogLogProvider };
