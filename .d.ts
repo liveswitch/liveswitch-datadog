@@ -1,1 +1,1 @@
-declare module '@frozenmountain/liveswitch-datadog
+declare module '@frozenmountain/liveswitch-datadog'
