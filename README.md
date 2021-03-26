@@ -32,7 +32,7 @@ var provider = new DataDogLogProvider({
     site: 'datadoghq.com',
     forwardErrorsToLogs: true,
     sampleRate: 100,
-    email: 'jerod.venema@frozenmountain.com',
+    email: '- email address for tracking who created the log -',
     logLevel: fm.liveswitch.LogLevel.Info
 })
 fm.liveswitch.Log.registerProvider(provider);
