@@ -1,6 +1,6 @@
 # liveswitch-datadog
 
-A simple log provider that uses datadog as a target for liveswitch logging.
+A simple log provider that uses datadog as a target for LiveSwitch logging.
 
 https://docs.datadoghq.com/logs/log_collection/javascript/
 
