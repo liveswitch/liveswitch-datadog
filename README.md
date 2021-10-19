@@ -37,3 +37,4 @@ var provider = new DataDogLogProvider({
 })
 fm.liveswitch.Log.registerProvider(provider);
 ```
+[![npm package](https://github.com/liveswitch/liveswitch-datadog/actions/workflows/publish-to-npm.yaml/badge.svg)](https://github.com/liveswitch/liveswitch-datadog/actions/workflows/publish-to-npm.yaml)
